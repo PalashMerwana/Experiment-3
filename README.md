@@ -13,7 +13,7 @@ assigment operator(=,+=,-=,*=,/=). these are used to assign value
 comparision operator (==,<=,>=,!=). these are relational operators
 logical operator (&&,||,!). these are to combine conditional statements
 # Arithmatic Operators
-~
+~~~
 #include using namespace std;
 
 int main()
@@ -40,10 +40,10 @@ cout<< "decrement is : "<<--b<<endl;
 
 return 0;
 }
-~
+~~~
 ![image](https://github.com/user-attachments/assets/a3cc8bee-b567-4e69-8e38-127be01dec48)
 # Assignment Operators
-~
+~~~
 #include using namespace std;
 
 int main()
@@ -64,10 +64,10 @@ cout<< " the value of e is: "<< e<< endl;
 return 0;
 }
 
-~
+~~~
 ![image](https://github.com/user-attachments/assets/cc93c29b-e372-44e4-a0f1-55a951e0b5f2)
 # Comparison Operators
-~
+~~~
 #include using namespace std;
 
 int main() { int a,b;
@@ -101,11 +101,11 @@ if (a!=b)
 
 return 0;
 }
-~
+~~~
   ![image](https://github.com/user-attachments/assets/76f9f4c3-17b9-44f2-bd2d-ae2673dd0d1a)
 
 # Logical Operators
-~
+~~~
 #include using namespace std;
 
 int main() {
@@ -128,5 +128,5 @@ cout<< "LOGICAL NOT: the output: "<< e<<endl;
 
 return 0;
 }
-~
+~~~
 ![image](https://github.com/user-attachments/assets/f1e6b60a-e53f-46b7-b1eb-ed4056266fc9)
